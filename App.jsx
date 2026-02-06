@@ -15,7 +15,7 @@ function App() {
           <nav className="navbar">
             <div className="logo">
               <span className="logo-icon">🌿</span>
-              <h1 className="logo-text">Paradise Nursery</h1>
+              <h1 className="logo-text">Welcome to Paradise Nursery</h1>
             </div>
           </nav>
           
